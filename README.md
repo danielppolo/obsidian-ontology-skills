@@ -48,6 +48,7 @@ People note management updates existing notes only. Google Contacts is the sourc
 - `obsidian-create-movie-note`: OMDB movie title lookup into `References/Movies`.
 - `obsidian-create-book-note`: Google Books title/query lookup into `References/Books`.
 - `obsidian-manage-person-note`: Google Contacts-backed updates to existing people notes; never creates new person notes.
+- `obsidian-birthdays`: birthday reads from `People.base#Birthday`, evaluating the base's `Contacts/` + `birthday` filter.
 - `obsidian-clip-places`: Google Maps place references into `References`.
 - `obsidian-clip-events`: Luma event references into `References`.
 - `obsidian-clip-podcasts`: Spotify, YouTube, and Patreon podcast/show/episode notes.
